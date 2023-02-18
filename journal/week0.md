@@ -8,18 +8,18 @@ https://lucid.app/lucidchart/36d55d36-264d-4f93-be42-3fc8ca12c66d/edit?viewport_
 
 Create an Admin User:-
 I have created user abdelrhman with user group called admin and attached iam policy administrative access to user group./n
+![image](https://user-images.githubusercontent.com/54307331/219882963-78c7055f-44ed-49b0-bf5e-4f350bdb6248.png)
 
 Generate AWS Credentials:
 generated and downloaded access key to user abdelrhman.
 
 Create a Billing Alarm:-
-![image](https://user-images.githubusercontent.com/54307331/219881547-e7046582-9f05-48f0-998e-e114126ebd2c.png)
-
 created billing alarm with threshold 3 USD.
 ![image](https://user-images.githubusercontent.com/54307331/219882119-459f3754-3865-4d69-ad67-f1d30f961f66.png)
 
 Create a Budget:-
 created budget with name track credit
+![image](https://user-images.githubusercontent.com/54307331/219882166-cccc811d-1f26-4d9b-ad0c-4a8fe08aa5b9.png)
 
 Installed AWS CLI
-![image](https://user-images.githubusercontent.com/54307331/219882166-cccc811d-1f26-4d9b-ad0c-4a8fe08aa5b9.png)
+
