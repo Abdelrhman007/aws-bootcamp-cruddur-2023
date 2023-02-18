@@ -23,3 +23,4 @@ created budget with name track credit
 
 Installed AWS CLI
 
+tested AWS CloudShell
