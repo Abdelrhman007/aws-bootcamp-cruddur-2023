@@ -13,10 +13,13 @@ Generate AWS Credentials:
 generated and downloaded access key to user abdelrhman.
 
 Create a Billing Alarm:-
+![image](https://user-images.githubusercontent.com/54307331/219881547-e7046582-9f05-48f0-998e-e114126ebd2c.png)
 
 created billing alarm with threshold 3 USD.
+![image](https://user-images.githubusercontent.com/54307331/219882119-459f3754-3865-4d69-ad67-f1d30f961f66.png)
 
 Create a Budget:-
 created budget with name track credit
 
 Installed AWS CLI
+![image](https://user-images.githubusercontent.com/54307331/219882166-cccc811d-1f26-4d9b-ad0c-4a8fe08aa5b9.png)
