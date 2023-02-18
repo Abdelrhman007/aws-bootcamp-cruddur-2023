@@ -10,11 +10,11 @@ Create an Admin User:-
 I have created user abdelrhman with user group called admin and attached iam policy administrative access to user group./n
 
 Generate AWS Credentials:
-generated and downloaded access key to user abdelrhman./n
+generated and downloaded access key to user abdelrhman.
 
 Create a Billing Alarm:-
 
-created billing alarm with threshold 3 USD./n
+created billing alarm with threshold 3 USD.
 
 Create a Budget:-
 created budget with name track credit
