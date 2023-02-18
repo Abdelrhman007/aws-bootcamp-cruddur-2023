@@ -18,3 +18,5 @@ created billing alarm with threshold 3 USD.
 
 Create a Budget:-
 created budget with name track credit
+
+Installed AWS CLI
